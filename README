@@ -1,0 +1,5 @@
+Compilacion:
+            $ javac *.java
+            
+Ejecucion:
+           $ java tarea2 --subte S --especial E --maxEst M --filename output.txt < input.txt
